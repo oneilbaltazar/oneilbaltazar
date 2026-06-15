@@ -1,4 +1,4 @@
-# Olá, eu sou o O'Neill! 👋
+# Olá, eu sou o O'neill Baltazar! 👋
 
 Estudante de Ciências da Computação.
 
