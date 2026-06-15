@@ -1,4 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o O'Neill! 👋
+
+Estudante de Ciências da Computação.
+
+Fundador da UONDO.
+
+Construindo soluções que unem tecnologia, sistemas e impacto.
+
+---
+
+## 🚀Atualmente
+
+- 🎓 Ciências da Computação
+- 🏢 Construindo a UONDO
+- 💻 Aprendendo React
+- 🤖 Explorando IA
+
+---
+
+## 🛠 Tecnologias
+
+HTML • CSS • JavaScript • React • Git
+
+---
+
+## 📫 Contacto
+
+- LinkedIn
+- Instagram
+- Facebook## Hi there 👋
 
 <!--
 **oneilbaltazar/oneilbaltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
